@@ -1,13 +1,15 @@
 import logo from './logo.svg';
+//import Webimage from "./WebImage"
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      <img src={require(process.env.PUBLIC_URL+"./ulpg_logo.png")} alt="ULPG Logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Upper Limb Prosthetic Guide
         </p>
         <a
           className="App-link"
@@ -17,9 +19,19 @@ function App() {
         >
           Learn React
         </a>
+        
       </header>
+      <header className="App-header">
+          <span className="Controls">
+            <button><strong>B</strong></button>
+            <button><em>I</em></button>
+            <button><u>U</u></button>
+          </span>
+          <textarea rows="5" className="Text" />
+          </header>
     </div>
   );
 }
 
 export default App;
+
