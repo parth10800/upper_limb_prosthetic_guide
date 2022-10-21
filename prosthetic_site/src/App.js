@@ -2,14 +2,17 @@ import logo from './logo.svg';
 //import Webimage from "./WebImage"
 
 import './App.css';
+import React, {Component} from 'react';
+import NavBar from './navbar';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-      <img src={require(process.env.PUBLIC_URL+"./ulpg_logo.png")} alt="ULPG Logo" />
+    <div className="App"> 
+    <NavBar/>
+      <div className="App-header">
         <p>
-          Upper Limb Prosthetic Guide
+          Upper Limb Prosthetic Guide   
         </p>
         <a
           className="App-link"
@@ -19,16 +22,16 @@ function App() {
         >
           Learn React
         </a>
-        
-      </header>
-      <header className="App-header">
-          <span className="Controls">
-            <button><strong>B</strong></button>
-            <button><em>I</em></button>
-            <button><u>U</u></button>
-          </span>
-          <textarea rows="5" className="Text" />
-          </header>
+
+      </div>
+      <div className="App-header">
+        <span className="Controls">
+          <button><strong>B</strong></button>
+          <button><em>I</em></button>
+          <button><u>U</u></button>
+        </span>
+        <textarea rows="5" className="Text" />
+      </div>
     </div>
   );
 }
