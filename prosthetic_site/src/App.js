@@ -33,14 +33,6 @@ function App() {
           Be aware that the process can be lengthy and it will take several visits before you get to try on a prosthetic socket.
           </p> 
       </div>
-      <div className="App-header">
-        <span className="Controls">
-          <button><strong>B</strong></button>
-          <button><em>I</em></button>
-          <button><u>U</u></button>
-        </span>
-        <textarea rows="5" className="Text" />
-      </div>
     </div>
     </div>
     
