@@ -4,6 +4,7 @@ import './App.css';
 import React, {Component} from 'react';
 import NavBar from './navbar';
 
+
 function App() {
   return (
     <div className="App"> 
@@ -24,9 +25,11 @@ function App() {
           </p>
           <p className="textBody">
           Don’t be afraid to ask questions! Your prosthetist will ask you questions about your lifestyle and goals for your prosthesis.
-          Have a list of goals ready to share with your prosthetist. 
           </p>
-          <p  className="textBody">What are you planning to use your prosthesis for? What are some aspects that you value in your prosthesis (i.e appearance, functionality, durability, etc.)
+          <p className="textBody">
+          Have a list of goals ready to share with your prosthetist. What are you planning to use your prosthesis for? 
+          </p>
+          <p className="textBody">What are some aspects that you value in your prosthesis (i.e appearance, functionality, durability, etc.)
           Be aware that the process can be lengthy and it will take several visits before you get to try on a prosthetic socket.
           </p> 
       </div>
