@@ -4,8 +4,8 @@
 }
 
 body {
-  background-color: #9bd3f6;
-  height: 0cm;
+  background-color: #737373;
+  height: 0mm;
 }
 
 .pages {
@@ -13,4 +13,78 @@ body {
   text-align: center;
   font-size: 3.5rem;
   margin-top: 10%;
+}
+
+.App-header {
+  background-image: url("site_bg_transparent.png");
+  background-size: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(70px + 2vmin);
+  color: white;
+}
+.App-bg2 {
+  background-color: #000;
+  background-size: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(15px + 2vmin);
+  color: white;
+}
+.App-link {
+  color: #61dafb;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #444266;
+  color: white;
+}
+.subtitles {
+  font-size: 50px;
+  text-align: left;
+  font-family:'Montserrat';
+}
+.textBody {
+  font-size: 20px;
+  text-align: center;
+  font-family:'Montserrat';
+}
+
+.link {
+  font-size: 25px;
+  text-align: center;
+  font-family:'Montserrat';
 }
