@@ -16,23 +16,48 @@ export const Home = () => {
       <div className="App"> 
       <div className="App-bg2">
         <p className='subtitles'>
-          <p style={{
-            fontSize: "50px;"
-          }}>
-            Preparing For Your First Visit
-          </p>
-          
-          </p> 
           <p>
+            Do you have a prosthetist yet?
           </p>
-          <p className="textBody">
-          Don’t be afraid to ask questions! Your prosthetist will ask you questions about your lifestyle and goals for your prosthesis.
-          Have a list of goals ready to share with your prosthetist. 
-          </p>
-          <p  className="textBody">What are you planning to use your prosthesis for? What are some aspects that you value in your prosthesis (i.e appearance, functionality, durability, etc.)
-          Be aware that the process can be lengthy and it will take several visits before you get to try on a prosthetic socket.
           </p> 
-  
+          <p className="link">
+          Find a Prosthetist Near Me!
+          </p>  
+      </div>
+      <div className="App-bg2">
+        <p className='subtitles'>
+          <p>
+            Prepare ahead before meeting with your prosthetist.
+          </p>
+          </p> 
+          <p className="link">
+          Learn more about your first visit.
+          </p>  
+      </div>
+      <div className="App-bg2">
+        <p className='subtitles'>
+          <p>
+          There are over 22 different terminal devices on the market. We touch on the most common and compare them. 
+          </p>
+          </p> 
+          <p className="link">
+          Check out our comparison tool
+          </p>  
+      </div>
+      <div className="App-bg2">
+        <p className='subtitles'>
+          <p>
+          Insurance for prosthetics is complex with lots of layers.
+          </p>
+          </p> 
+          <p className="link">
+          Learn about insurance basics
+          </p>  
+      </div>
+      <div className="App-bg2"> 
+          <p className="link">
+          Click here for additional resources
+          </p>  
       </div>
   
     </div>

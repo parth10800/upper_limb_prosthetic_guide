@@ -9,7 +9,7 @@ body {
 }
 
 .pages {
-  color: #316685;
+  color: #fff;
   text-align: center;
   font-size: 3.5rem;
   margin-top: 10%;
@@ -74,13 +74,15 @@ body {
 }
 .subtitles {
   font-size: 50px;
-  text-align: left;
+  text-align: center;
   font-family:'Montserrat';
+  color: white;
 }
 .textBody {
   font-size: 20px;
   text-align: center;
   font-family:'Montserrat';
+  color: white;
 }
 
 .link {
