@@ -3,7 +3,22 @@ import React from "react";
 export const Compare = () => {
   return (
     <div>
-      <h1>Compare</h1>
+      <div>
+      <p className='subtitles'>
+            <h1>Compare Products</h1>
+          </p>
+          <p className="textBody">
+            What products would you like to compare?
+          </p>
+          <div id = "btnTwoCompares">
+          <button type="etd" name="formBtn" id="btnCompare">
+           Electric Terminal Devices (ETDs)
+          </button>
+          <button type="bionic" name="formBtn" id="btnCompare">
+           Bionic Hands
+          </button>
+          </div>
+    </div>
     </div>
   );
 };

@@ -3,17 +3,14 @@ import React from "react";
 export const Home = () => {
   return (
     <div className="App"> 
-    
       <div className="App-header">
         <p style={{
           fontSize: "150px;"
-          
           }}>
           Upper Limb Prosthetic Guide
           </p> 
       </div>
   
-      <div className="App"> 
       <div className="App-bg2">
         <p className='subtitles'>
           <p>
@@ -60,7 +57,7 @@ export const Home = () => {
           </p>  
       </div>
   
-    </div>
+   
     </div>
   );
 };
