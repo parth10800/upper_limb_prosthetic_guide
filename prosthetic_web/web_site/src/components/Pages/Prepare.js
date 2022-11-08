@@ -19,7 +19,7 @@ export const Prepare = () => {
             Be aware that the process can be lengthy and it will take several visits before you get to try on a prosthetic socket.
           </p>
     </div> 
-    <img src="web_site\src\components\Pages\first-visit.png"></img>
+    <img src="Images/first-visit.png"></img>
     </div>
 
   );
