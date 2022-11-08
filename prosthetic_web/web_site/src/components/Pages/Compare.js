@@ -5,7 +5,7 @@ export const Compare = () => {
     <div>
       <div>
       <p className='subtitles'>
-            <h1>Compare Products</h1>
+            Compare Products
           </p>
           <p className="textBody">
             What products would you like to compare?

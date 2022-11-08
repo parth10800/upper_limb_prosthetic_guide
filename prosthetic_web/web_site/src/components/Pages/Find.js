@@ -2,7 +2,8 @@ import React from "react";
 
 export const Find = () => {
   return (
-    <div>
+    <div id = "textPrepare">
+      <div>
       <p className='subtitlesLeft'>
             <h1>Finding a Prosthetist Near You</h1>
           </p>
@@ -18,6 +19,7 @@ export const Find = () => {
           </p>
           <p className="textBodyLeft">
           Step 4: Set up your first appointment with your clinic          </p>
+    </div>
     </div>
   );
 };

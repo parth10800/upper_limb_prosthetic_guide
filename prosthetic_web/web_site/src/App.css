@@ -36,9 +36,9 @@ body {
 
 #textPrepare {
   display: flex; 
-  margin: 0 auto;
   width: 700px; 
   align-content: left;
+  margin-top: 20mm;
 }
 
 .App-header {
@@ -100,13 +100,13 @@ body {
   text-align: center;
   font-family:'Montserrat';
   color: white;
+  margin-top: 50mm;
 }
 .subtitlesLeft {
   font-size: 50px;
-  text-align: left;
+  text-align: center;
   font-family:'Montserrat';
   color: white;
-  margin: 10px; 
 }
 .textBody {
   font-size: 20px;

@@ -5,7 +5,7 @@ export const Insurance = () => {
     <div id = "textPrepare">
     <div >
       <p className='subtitlesLeft'>
-            <h1>Insurance Basics</h1>
+            Insurance Basics
           </p>
           <p>
           </p>
@@ -19,7 +19,6 @@ export const Insurance = () => {
           However, this is a very lengthy process. 
           </p>
     </div> 
-    <img src="insurance.png"></img>
     </div>
   );
 };

@@ -3,7 +3,7 @@ import React from "react";
 export const Resources = () => {
   return (
     <div>
-      <h1>Helpful Resources</h1>
+      Helpful Resources
       <p className="link">
       Amputee Coalition: 
       </p>
