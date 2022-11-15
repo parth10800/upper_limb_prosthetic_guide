@@ -7,6 +7,8 @@ import { Prepare } from "./components/Pages/Prepare";
 import { Compare } from "./components/Pages/Compare";
 import { Insurance } from "./components/Pages/Insurance";
 import { Resources } from "./components/Pages/Resources";
+import { Etd } from "./components/Pages/Etd";
+import { Bh } from "./components/Pages/Bh";
 
 function App() {
   return (
@@ -22,6 +24,8 @@ function App() {
             <Route exact path="/compare" element={<Compare/>} />
             <Route exact path="/insurance" element={<Insurance/>} />
             <Route exact path="/resources" element={<Resources/>} />
+            <Route exact path="/etd" element={<Etd/>} />
+            <Route exact path="/bh" element={<Bh/>} />
             
           </Routes>
           

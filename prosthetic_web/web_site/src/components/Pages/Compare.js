@@ -1,5 +1,5 @@
 import React from "react";
-
+import {Link} from "react-router-dom"
 export const Compare = () => {
   return (
     <div>
@@ -11,12 +11,16 @@ export const Compare = () => {
             What products would you like to compare?
           </p>
           <div id = "btnTwoCompares">
-          <button type="etd" name="formBtn" id="btnCompare">
-           Electric Terminal Devices (ETDs)
-          </button>
-          <button type="bionic" name="formBtn" id="btnCompare">
-           Bionic Hands
-          </button>
+          <Link to="/etd">
+            <button type="etd" name="formBtn" id="btnCompare">
+            Electric Terminal Devices (ETDs)
+            </button>
+          </Link>
+          <Link to="/bh">
+            <button type="etd" name="formBtn" id="btnCompare">
+            Bionic Hands
+            </button>
+          </Link>
           </div>
     </div>
     </div>
