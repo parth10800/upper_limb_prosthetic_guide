@@ -10,6 +10,13 @@ export const Home = () => {
           }}>
           Upper Limb Prosthetic Guide
           </p> 
+          <p className = 'subtitlesHome'> 
+          We hope to add clarity to the confusing world of upper limb prosthetics 
+          and provide helpful advice and steps towards getting your first prosthetic device
+          </p>
+          <p className = 'subtitlesHome'> 
+          About Us
+          </p>
       </div>
   
       <div className="App-bg2">

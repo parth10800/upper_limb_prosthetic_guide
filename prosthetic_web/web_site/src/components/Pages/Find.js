@@ -1,10 +1,12 @@
 import React from "react";
+import mapImage from "./map_sample.jpg";
 
 export const Find = () => {
   return (
-    <div id = "textPrepare">
-      <div>
-      <p className='subtitlesLeft'>
+    <div className="container">
+      <div className="row">
+        <div className="col">
+        <p className='subtitlesLeft'>
             <h1>Finding a Prosthetist Near You</h1>
           </p>
           <p>
@@ -19,7 +21,13 @@ export const Find = () => {
           </p>
           <p className="textBodyLeft">
           Step 4: Set up your first appointment with your clinic          </p>
-    </div>
+
+        </div>
+
+        <div className="col">
+          <img className="img-fluid" src={mapImage}/>
+        </div>
+      </div>
     </div>
   );
 };

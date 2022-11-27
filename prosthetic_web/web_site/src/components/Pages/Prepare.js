@@ -1,5 +1,5 @@
 import React from "react";
-import firstVisit from "./first-visit.png";
+import firstVisit from "./first-visit.jpg";
 
 export const Prepare = () => {
   return (
