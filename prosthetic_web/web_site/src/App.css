@@ -47,7 +47,7 @@ body {
   background-color: #43335a;
   padding: 10px;
   width: 200px;
-  height: 600px;
+  height: 400px;
   margin: 15px;
 }
 
@@ -141,6 +141,14 @@ body {
   font-family:'Montserrat';
   color: white;
 }
+
+.textBodySmall {
+  font-size: 15px;
+  text-align: center;
+  font-family:'Montserrat';
+  color: white;
+}
+
 
 .textBodyLeft {
   font-size: 20px;

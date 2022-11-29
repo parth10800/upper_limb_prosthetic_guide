@@ -11,65 +11,80 @@ export const Etd = () => {
     <div id="etdInfoBox">
         <div class="col">
             <p class = "textBody">
-                Hello Test
+              Fillauer MC ProPlus Hand
             </p>
-            <p class = "textBody">
-                Hello Test 2
+            <p class = "textBodySmall">
+            Weight: 431g - 654g
             </p>
-            <p class = "textBody">
-                Hello Test 3
+            <p class = "textBodySmall">
+            Sizes: S - L
             </p>
-        </div>
-    </div>
-    <div id="etdInfoBox">
-        <div class="col">
-            <p class = "textBody">
-                Hello Test
-            </p>
-            <p class = "textBody">
-                Hello Test 2
-            </p>
-            <p class = "textBody">
-                Hello Test 3
+            <p class = "textBodySmall">
+            Lean more...
             </p>
         </div>
     </div>
     <div id="etdInfoBox">
         <div class="col">
             <p class = "textBody">
-                Hello Test
+            Fillauer MC Standard ETD
             </p>
-            <p class = "textBody">
-                Hello Test 2
+            <p class = "textBodySmall">
+                Weight: 371- 624g
             </p>
-            <p class = "textBody">
-                Hello Test 3
+            <p class = "textBodySmall">
+            Sizes: S-L
             </p>
-        </div>
-    </div>
-    <div id="etdInfoBox">
-        <div class="col">
-            <p class = "textBody">
-                Hello Test
-            </p>
-            <p class = "textBody">
-                Hello Test 2
-            </p>
-            <p class = "textBody">
-                Hello Test 3
+            <p class = "textBodySmall">
+            Lean more...
             </p>
         </div>
     </div>
     <div id="etdInfoBox">
         <div class="col">
             <p class = "textBody">
-                Hello Test
+            Ottobock MyoHand VariPlus Speed
             </p>
             <p class = "textBody">
-                Hello Test 2
+            Weight: 460 g
             </p>
             <p class = "textBody">
-                Hello Test 3
+            Sizes: S-L
+            </p>
+            <p class = "textBodySmall">
+            Lean more...
+            </p>
+        </div>
+    </div>
+    <div id="etdInfoBox">
+        <div class="col">
+        <p class = "textBody">
+              Ottobock SensorHand Speed
+            </p>
+            <p class = "textBodySmall">
+                Weight: 462g
+            </p>
+            <p class = "textBodySmall">
+                Sizes: S-L
+            </p>
+            <p class = "textBodySmall">
+            Lean more...
+            </p>
+        </div>
+    </div>
+    <div id="etdInfoBox">
+        <div class="col">
+            <p class = "textBody">
+            Motorica INDY Hand
+            </p>
+            <p class = "textBody">
+                Weight: 350g
+            </p>
+            <p class = "textBody">
+                Sizes: N/A
+            </p>
+            <p class = "textBodySmall">
+            Lean more...
             </p>
         </div>
     </div>
