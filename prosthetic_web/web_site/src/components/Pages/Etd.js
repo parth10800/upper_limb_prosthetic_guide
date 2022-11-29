@@ -13,6 +13,9 @@ export const Etd = () => {
             <p class = "textBody">
               Fillauer MC ProPlus Hand
             </p>
+            <p>
+                IMAGE
+            </p>
             <p class = "textBodySmall">
             Weight: 431g - 654g
             </p>
@@ -20,7 +23,7 @@ export const Etd = () => {
             Sizes: S - L
             </p>
             <p class = "textBodySmall">
-            Lean more...
+            <a href="https://fillauer.com/products/proplus-hand/">Learn more...</a>
             </p>
         </div>
     </div>
@@ -29,6 +32,9 @@ export const Etd = () => {
             <p class = "textBody">
             Fillauer MC Standard ETD
             </p>
+            <p>
+                IMAGE
+            </p>
             <p class = "textBodySmall">
                 Weight: 371- 624g
             </p>
@@ -36,7 +42,7 @@ export const Etd = () => {
             Sizes: S-L
             </p>
             <p class = "textBodySmall">
-            Lean more...
+            <a href="https://https://fillauer.com/products/mc-standard-etd/.com/products/proplus-hand/">Learn more...</a>
             </p>
         </div>
     </div>
@@ -45,14 +51,17 @@ export const Etd = () => {
             <p class = "textBody">
             Ottobock MyoHand VariPlus Speed
             </p>
-            <p class = "textBody">
+            <p>
+                IMAGE
+            </p>
+            <p class = "textBodySmall">
             Weight: 460 g
             </p>
-            <p class = "textBody">
+            <p class = "textBodySmall">
             Sizes: S-L
             </p>
             <p class = "textBodySmall">
-            Lean more...
+            <a href="https://shop.ottobock.us/Prosthetics/Upper-Limb-Prosthetics/Myo-Hands-and-Components/Myo-Terminal-Devices/MyoHand-VariPlus-Speed/p/8E41~59#:~:text=Thanks%20to%20the%20high%20gripping,be%20gripped%20quickly%20and%20precisely.">Learn more...</a>
             </p>
         </div>
     </div>
@@ -61,6 +70,9 @@ export const Etd = () => {
         <p class = "textBody">
               Ottobock SensorHand Speed
             </p>
+            <p>
+                IMAGE
+            </p>
             <p class = "textBodySmall">
                 Weight: 462g
             </p>
@@ -68,7 +80,7 @@ export const Etd = () => {
                 Sizes: S-L
             </p>
             <p class = "textBodySmall">
-            Lean more...
+            <a href="https://shop.ottobock.us/Prosthetics/Upper-Limb-Prosthetics/Myo-Hands-and-Components/Myo-Terminal-Devices/SensorHand-Speed/p/8E39~58#product-specification-section">Learn more...</a>
             </p>
         </div>
     </div>
@@ -77,14 +89,17 @@ export const Etd = () => {
             <p class = "textBody">
             Motorica INDY Hand
             </p>
-            <p class = "textBody">
+            <p>
+                IMAGE
+            </p>
+            <p class = "textBodySmall">
                 Weight: 350g
             </p>
-            <p class = "textBody">
+            <p class = "textBodySmall">
                 Sizes: N/A
             </p>
             <p class = "textBodySmall">
-            Lean more...
+            <a href="https://global.motorica.org/prosthetics/upper-limb/indy-hand">Learn more...</a>
             </p>
         </div>
     </div>
