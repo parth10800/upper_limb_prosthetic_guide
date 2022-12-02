@@ -13,6 +13,9 @@ export const Bh = () => {
             <p class = "textBody">
               i-Limb® Quantum
             </p>
+            <p>
+                IMAGE
+            </p>
             <p class = "textBodySmall">
               Weight: 472g - 553g
             </p>
@@ -32,6 +35,9 @@ export const Bh = () => {
             <p class = "textBody">
               TASKA
             </p>
+            <p>
+                IMAGE
+            </p>
             <p class = "textBodySmall">
             Weight: 200 g
             </p>
@@ -47,6 +53,9 @@ export const Bh = () => {
         <div class="col">
             <p class = "textBody">
             Psyonic  Ability HandTM
+            </p>
+            <p>
+                IMAGE
             </p>
             <p class = "textBodySmall">
                 Weight: 490 g
@@ -67,6 +76,9 @@ export const Bh = () => {
             <p class = "textBody">
             Ottobock Bebionic
             </p>
+            <p>
+                IMAGE
+            </p>
             <p class = "textBodySmall">
             Weight: 200 g
             </p>
@@ -85,6 +97,9 @@ export const Bh = () => {
         <div class="col">
             <p class = "textBody">
             Covvi Hand
+            </p>
+            <p>
+                IMAGE
             </p>
             <p class = "textBodySmall">
             Weight: 570g - 620g
