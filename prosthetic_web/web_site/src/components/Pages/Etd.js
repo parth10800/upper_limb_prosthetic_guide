@@ -1,5 +1,9 @@
 import React from "react";
-
+import ProPlusHand from "./Fillaur-ProPlusHand.jpg"
+import StandardETD from "./Fillaur-Standard-ETD.jpg"
+import INDY from "./INDY-Hand.JPG"
+import MyoHand from "./Ottobock-MyoHand-VariPlus-Speed.jpg"
+import SensorHand from "./Ottobock-SensorHand-Speed.jpg"
 
 export const Etd = () => {
   return (
@@ -13,9 +17,7 @@ export const Etd = () => {
             <p class = "textBody">
               Fillauer MC ProPlus Hand
             </p>
-            <p>
-                IMAGE
-            </p>
+            <img src={ProPlusHand}/>
             <p class = "textBodySmall">
             Weight: 431g - 654g
             </p>
@@ -32,9 +34,7 @@ export const Etd = () => {
             <p class = "textBody">
             Fillauer MC Standard ETD
             </p>
-            <p>
-                IMAGE
-            </p>
+            <img src={StandardETD}/>
             <p class = "textBodySmall">
                 Weight: 371- 624g
             </p>
@@ -51,9 +51,7 @@ export const Etd = () => {
             <p class = "textBody">
             Ottobock MyoHand VariPlus Speed
             </p>
-            <p>
-                IMAGE
-            </p>
+            <img src={MyoHand}/>
             <p class = "textBodySmall">
             Weight: 460 g
             </p>
@@ -70,9 +68,7 @@ export const Etd = () => {
         <p class = "textBody">
               Ottobock SensorHand Speed
             </p>
-            <p>
-                IMAGE
-            </p>
+            <img src={SensorHand}/>
             <p class = "textBodySmall">
                 Weight: 462g
             </p>
@@ -89,9 +85,7 @@ export const Etd = () => {
             <p class = "textBody">
             Motorica INDY Hand
             </p>
-            <p>
-                IMAGE
-            </p>
+            <img src={INDY}/>
             <p class = "textBodySmall">
                 Weight: 350g
             </p>
