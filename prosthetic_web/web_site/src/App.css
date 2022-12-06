@@ -164,5 +164,16 @@ body {
   text-decoration: underline;
 }
 
+.half_image {
+  height: 50%;
+}
+
+.third_image {
+  height: 65%;
+}
+
+.bottom-space {
+  margin-bottom: 28px;
+}
 
 

@@ -17,7 +17,7 @@ export const Etd = () => {
             <p class = "textBody">
               Fillauer MC ProPlus Hand
             </p>
-            <img src={ProPlusHand}/>
+            <img className="rounded img-fluid" src={ProPlusHand}/>
             <p class = "textBodySmall">
             Weight: 431g - 654g
             </p>
@@ -34,7 +34,7 @@ export const Etd = () => {
             <p class = "textBody">
             Fillauer MC Standard ETD
             </p>
-            <img src={StandardETD}/>
+            <img className="rounded img-fluid half_image" src={StandardETD}/>
             <p class = "textBodySmall">
                 Weight: 371- 624g
             </p>
@@ -51,7 +51,7 @@ export const Etd = () => {
             <p class = "textBody">
             Ottobock MyoHand VariPlus Speed
             </p>
-            <img src={MyoHand}/>
+            <img className="rounded img-fluid" src={MyoHand}/>
             <p class = "textBodySmall">
             Weight: 460 g
             </p>
@@ -68,7 +68,7 @@ export const Etd = () => {
         <p class = "textBody">
               Ottobock SensorHand Speed
             </p>
-            <img src={SensorHand}/>
+            <img className="rounded img-fluid" src={SensorHand}/>
             <p class = "textBodySmall">
                 Weight: 462g
             </p>
@@ -85,7 +85,7 @@ export const Etd = () => {
             <p class = "textBody">
             Motorica INDY Hand
             </p>
-            <img src={INDY}/>
+            <img className="rounded img-fluid" src={INDY}/>
             <p class = "textBodySmall">
                 Weight: 350g
             </p>
