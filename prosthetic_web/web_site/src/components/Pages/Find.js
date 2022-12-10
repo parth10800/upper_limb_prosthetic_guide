@@ -105,7 +105,7 @@ export const Find = () => {
 
                 <div className="col">
                     <LoadScript
-                        googleMapsApiKey="AIzaSyAg3gyl1n_zcZDvmG9CREbN2h4bxbBsxA4"
+                        googleMapsApiKey="Insert Here"
                     >
                         <GoogleMap
                             mapContainerStyle={containerStyle}
